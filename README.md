@@ -1,4 +1,4 @@
-# React Table example: CRUD App with react-table v7
+# React Table example: USER CRUD App with react-table v7
 
 Build a React Table example with [react-table](https://github.com/tannerlinsley/react-table) v7 by a CRUD Application to consume Web API with Axios, display and modify data with Router & Bootstrap.
 
@@ -6,8 +6,6 @@ Build a React Table example with [react-table](https://github.com/tannerlinsley/
 - We can create, retrieve, update, delete Users.
 - List of Users is shown in a Table using `react-table` v7
 - There is a Search bar for finding Users by title.
-
-# ![react-table-example-crud-react-table-v7-User](react-table-example-crud-react-table-v7-User.png)
 
 ### Set port
 
